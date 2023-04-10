@@ -16,34 +16,40 @@
 /* -------------------------- Times New Roman -------------------------- */
 @font-face {
     font-family: "Times New Roman";
-    font-display: optional;
+    font-display: swap;
     src: url("https://cdn.jsdelivr.net/gh/JadeVane/fonts-cdn/TimesNewRoman-Regular.woff2") format("woff2");
 }
 
-/* -------------------------- Times New Roman -------------------------- */
+/* -------------------------- Fira Code -------------------------- */
 @font-face {
     font-family: "Fira Code";
-    font-display: optional;
+    font-display: swap;
     src: url("https://cdn.jsdelivr.net/gh/JadeVane/fonts-cdn/FiraCode-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Fira Code";
+    font-display: swap;
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/JadeVane/fonts-cdn/FiraCode-SemiBold.woff2") format("woff2");
 }
 
 /* -------------------------- 方正清刻本悦宋简体 -------------------------- */
 @font-face {
     font-family: "方正清刻本悦宋简体";
     src: url('https://cdn.jsdelivr.net/gh/JadeVane/fonts-cdn/FZQingKeBenYueSongS-R-GB.woff2') format('woff2');
-    font-display: optional;
+    font-display: swap;
 }
 
 /* -------------------------- 阿里巴巴普惠体 -------------------------- */
 @font-face {
-    font-family: "AlibabaPuHuiTi";
-    font-display: optional;
+    font-family: "阿里巴巴普惠体";
+    font-display: swap;
     font-weight: normal;
     src: url('https://cdn.jsdelivr.net/gh/JadeVane/fonts-cdn/AlibabaPuHuiTi-2-55-Regular.woff2') format('woff2');
 }
 @font-face {
-    font-family: "AlibabaPuHuiTi";
-    font-display: optional;
+    font-family: "阿里巴巴普惠体";
+    font-display: swap;
     font-weight: 600;
     src: url('https://cdn.jsdelivr.net/gh/JadeVane/fonts-cdn/AlibabaPuHuiTi-2-75-SemiBold.woff2') format('woff2');
 }
