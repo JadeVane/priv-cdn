@@ -45,6 +45,6 @@
     font-family: "AlibabaPuHuiTi";
     font-display: optional;
     font-weight: 600;
-    src: url('https://cdn.jsdelivr.net/gh/JadeVane/fonts-cdn/AlibabaPuHuiTi-2-75-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/JadeVane/fonts-cdn/AlibabaPuHuiTi-2-75-SemiBold.woff2') format('woff2');
 }
 ```
